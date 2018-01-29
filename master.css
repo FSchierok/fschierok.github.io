@@ -1,0 +1,47 @@
+p {
+	color: #ffffff;
+	font-size: 1.5em;
+}
+
+h1 {
+	color: #ffffff;
+	font-size: 5em;
+	font-weight: bold;
+	text-align: right;
+}
+
+h2 {
+	color: #ffffff;
+	font-size: 2.5em;
+	font-weight: bold;
+	text-align: center;
+}
+
+body {
+	background-color: #1f1f1f;
+}
+
+nav {
+	background-color: #B22222;
+}
+
+div.border {
+	height: 80%;
+	width: 80%;
+	margin: 10%;
+}
+
+p.ref {
+	color: #ffffff;
+	font-size: 1.5em;
+	font-style: italic;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+/*
+#5b9aa0
+#d6d4e0
+#b8a9c9
+#622569
+*/
