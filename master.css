@@ -17,12 +17,18 @@ h2 {
 	text-align: center;
 }
 
+h4 {
+	color: #ffffff;
+	font-size: 2em;
+}
+
 body {
 	background-color: #1f1f1f;
 }
 
 nav {
 	background-color: #B22222;
+	padding: 2em;
 }
 
 div.border {
@@ -37,6 +43,23 @@ p.ref {
 	font-style: italic;
 	margin-left: 10%;
 	margin-right: 10%;
+}
+
+div.spoiler-hidden .spoiler-text {
+	display: none;
+}
+
+div.spoiler-text {
+	padding: 1em;
+}
+
+a.spoiler-toggle {
+	color: #ffffff;
+	padding: 1em;
+}
+
+div.spoiler-toggle a.spoiler-toggle {
+	background-position: 0 -16px;
 }
 
 /*
